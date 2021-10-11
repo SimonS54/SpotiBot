@@ -1,0 +1,2 @@
+# SpotiBot
+Discord Music Bot
